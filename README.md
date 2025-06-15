@@ -23,3 +23,11 @@
 
 ![Grid 10](grid10.png)
 
+## Large Model
+![Grid 11](step_0193500.png)
+
+## Medium Model
+![Grid 11](step_0216000.png)
+
+## Small Model
+![Grid 11](step_0336000.png)
