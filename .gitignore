@@ -12,9 +12,14 @@ __pycache__/
 *.pth
 ckpts/
 
-# Data and samples
+# Data
 lhq_split/
-samples/
+
+# Samples - ignore generated outputs but keep source files
+samples/**/*.png
+samples/**/ckpts/
+samples/**/samples/
+samples/**/id_ed25519
 
 # Generated images
 *.png
