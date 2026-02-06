@@ -1,0 +1,5 @@
+row1: [64, 64, 128, 128]
+row2: [0, 128, 96,  96]   # only the foliage band (≈65 % width × 30 % height)
+row3: [138, 100, 118, 118]   # roughly half hillside + half water
+row4: [32,  0, 192, 192]
+row5: [10, 50, 200, 120]

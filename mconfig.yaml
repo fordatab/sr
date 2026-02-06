@@ -1,0 +1,14 @@
+# col<i>: [cx, cy, cw, ch]   (all integer pixels)
+# ────────────────────────────────────────────────────────────────
+# cx, cy : top-left corner of crop inside the 256×256 tile
+# cw, ch : crop width and height (100×100 in every case below)
+# ────────────────────────────────────────────────────────────────
+
+col1: [ 64, 128, 100, 100 ]   # riverbed - lower-centre
+col2: [ 40,  150, 100, 100 ]   # tree branch / mountain shoulder
+col3: [ 64,  140, 100, 100 ]   # lake surface ripples
+col4: [ 140,  80, 100, 100 ]   # mountain peak / sky
+col5: [156, 156, 100, 100 ]   # cliff base & scrub
+col6: [ 96,  32, 100, 100 ]   # snowy ridge
+col7: [ 90, 156, 100, 100 ]   # lagoon reflection & reeds
+col8: [ 90,  94, 100, 100 ]   # waterfall & mossy rocks

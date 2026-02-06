@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.idea/
+*.iml
+
+# Model weights and checkpoints
+*.pth
+ckpts/
+
+# Data and samples
+lhq_split/
+samples/
+
+# Generated images
+*.png
